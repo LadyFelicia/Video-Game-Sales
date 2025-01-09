@@ -1,6 +1,6 @@
 ## ***Project name**:  Video Game Sales*
 
-**Objective**: I acted as an independent data consultant in the gaming industry.
+**Objective**: I acted as an Data Analyst in the gaming industry.
 
 **Project Overview**: 
 
